@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @RonfelAndrey
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👋 Bomdia, sou o RonfelAndrey 
+- 👀 Estou buscando aprender mais sobre programação e quem sabe ganhar espaço na área
+- 🌱 Segue meu insta @andrey_4031
+- 📫 Sou a pessoa mais calma possivel
+- 😄 Pode me chamar do jeito que quiser! Não tenho problemas com isto
 - ⚡: Aprendi a Programar usando o sistema Arduino e me apaixonei por programação
 
 <!---
